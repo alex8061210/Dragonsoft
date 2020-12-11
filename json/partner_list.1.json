@@ -1,0 +1,143 @@
+[
+    {
+        "logo": "../assets/img/partners/聯達資訊.png",
+        "name": "聯達資訊",
+        "link": "http://www.unicomp.com.tw/",
+        "contact_person": "朱先生",
+        "phone_number": "02-2659-1536 #2301"
+    },
+    {
+        "logo": "../assets/img/partners/凌羣電腦.png",
+        "name": "凌群電腦",
+        "link": "http://www.syscom.com.tw/",
+        "contact_person": "楊小姐",
+        "phone_number": "02-2191-6066 #8734"
+    },
+    {
+        "logo": "../assets/img/partners/奧義智慧.png",
+        "name": "奧義智慧",
+        "link": "https://www.cycarrier.com/",
+        "contact_person": "梁先生",
+        "phone_number": "0921-102-118"
+    },
+    {
+        "logo": "../assets/img/partners/呈展科技.png",
+        "name": "呈展科技",
+        "link": "http://www.cheng-jhan.com/",
+        "contact_person": "吳先生",
+        "phone_number": "0975-720-620"
+    },
+    {
+        "logo": "../assets/img/partners/宏碁電腦.png",
+        "name": "宏碁電腦",
+        "link": "http://software.acer.net",
+        "contact_person": "蔡小姐",
+        "phone_number": "02-2696-3131 #5215"
+    },
+    {
+        "logo": "../assets/img/partners/大同世界科技.png",
+        "name": "大同世界科技",
+        "link": "http://www.etatung.com.tw",
+        "contact_person": "蔡先生",
+        "phone_number": "04-2310-0506 #172"
+    },
+    {
+        "logo": "../assets/img/partners/國眾電腦.png",
+        "name": "國眾電腦",
+        "link": "http://www.leosys.com/",
+        "contact_person": "詹小姐",
+        "phone_number": "02-2799-6789 #2913"
+    },
+    {
+        "logo": "../assets/img/partners/精誠資訊.png",
+        "name": "精誠資訊",
+        "link": "http://www.systex.com.tw",
+        "contact_person": "蔡先生",
+        "phone_number": "02-2367-0188 #6860"
+    },
+    {
+        "logo": "../assets/img/partners/永磐科技.png",
+        "name": "永磐科技",
+        "link": "http://www.mikotek.com.tw",
+        "contact_person": "鍾先生",
+        "phone_number": "02-8797-1199 #300"
+    },
+    {
+        "logo": "../assets/img/partners/碁峯資訊.png",
+        "name": "碁峯資訊",
+        "link": "http://www.gotop.com.tw",
+        "contact_person": "林先生",
+        "phone_number": "02-2788-2408 #886"
+    },
+    {
+        "logo": "../assets/img/partners/松崗資產.png",
+        "name": "松崗資產",
+        "link": "http://sw.kingsinfo.com.tw/",
+        "contact_person": "",
+        "phone_number": ""
+    },
+    {
+        "logo": "../assets/img/partners/智域國際.png",
+        "name": "智域國際",
+        "link": "http://www.i-planet.com.tw",
+        "contact_person": "劉先生",
+        "phone_number": "02-2712-2435"
+    },
+    {
+        "logo": "../assets/img/partners/三商電腦.png",
+        "name": "三商電腦",
+        "link": "http://www.mds.com.tw/",
+        "contact_person": "",
+        "phone_number": ""
+    },
+    {
+        "logo": "../assets/img/partners/新碩資訊.png",
+        "name": "新碩資訊",
+        "link": "http://www.mbatec.com.tw",
+        "contact_person": "陳先生",
+        "phone_number": "02-2739-7700"
+    },
+    {
+        "logo": "../assets/img/partners/協科資訊.png",
+        "name": "協科資訊",
+        "link": "http://www.acrotech.com.tw",
+        "contact_person": "林小姐 Peggy",
+        "phone_number": "02-2881-2340 #116"
+    },
+    {
+        "logo": "../assets/img/partners/啓迪國際.png",
+        "name": "啓迪國際",
+        "link": "http://www.ginnet.com.tw/",
+        "contact_person": "",
+        "phone_number": ""
+    },
+    {
+        "logo": "../assets/img/partners/文興資訊.png",
+        "name": "文興資訊",
+        "link": "",
+        "contact_person": "劉先生",
+        "phone_number": "07-366-2669"
+    },
+    {
+        "logo": "../assets/img/partners/欣明資訊.png",
+        "name": "欣明資訊",
+        "link": "http://www.smtec.com.tw",
+        "contact_person": "連小姐",
+        "phone_number": "02-2563-1512"
+    },
+    {
+        "logo": "../assets/img/partners/網信科技.png",
+        "name": "網信科技",
+        "link": "http://www.netrust.com.tw",
+        "contact_person": "廖先生",
+        "phone_number": "02-2563-0483"
+    },
+    {
+        "logo": "../assets/img/partners/康和資訊.png",
+        "name": "康和資訊",
+        "link": "http://www.econcord.com.tw",
+        "contact_person": "王小姐 Doris",
+        "phone_number": "02-8798-7166 #1334"
+    }
+
+]

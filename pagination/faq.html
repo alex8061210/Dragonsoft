@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>DragonSoft | 常見問題</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="中華龍網為臺灣資安軟體的先驅領導廠商，致力於資訊安全軟體與專案系統開發。我們提供端點及物聯網兩大資安解決方案協助政府/企業完整防護需求，其產品如：全中文弱點掃描軟體(DVM) 、政府資安組態稽核軟體(D-GCB)、新世代人工智慧端點防護軟體(HyperEDR)、網路威脅狩獵者(X-Hunter)、政府機關資安弱點通報系統輔助工具(VANS)。">
+  <meta name="author" content="DragonSoft">
+  <link rel="icon" type="image/png" href="../assets/img/DragonSoft_WebLogo_small.png">
+
+  <script src="../assets/js/headerplugin.js"></script>
+
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <script src="../assets/js/header.js"></script>
+
+  <section id="section_FAQ" class="bg-dark text-white topic">
+    <div class="container text-center">
+      <h2 class="mb-4">常見問題</h2>
+    </div>
+  </section>
+
+  <BR>
+  <BR>
+  <!--section class="bg-white text-dark"-->
+  <div class="container text-dark">
+    <h2 class="mb-4"><img src="../assets/img/title icon/question.png" style="padding-right: 0.5em">DVM常見問題</h2>
+  </div>
+  <!--/section-->
+
+  <div class="container">
+
+    <div class="panel-group" id="accordion" style="padding-left: 5em">
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"
+              href="#collapseOne">請問DVM是否可以更換主機安裝？</a>
+          </h4>
+        </div>
+        <div id="collapseOne" class="panel-collapse collapse in">
+          <div class="panel-body">
+            因DVM授權僅單台主機安裝使用，DVM有綁定主機網卡地址(MAC)，如需要更換主機請與dragonsoft連絡，填寫『軟體授權碼解鎖申請表』後方可解鎖更換主機安裝，需三個工作天。
+          </div>
+        </div>
+        <br>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion"
+              href="#collapseTen">請問防毒軟體與防火牆對DVM是否會有影響呢?</a>
+          </h4>
+        </div>
+        <div id="collapseTen" class="panel-collapse collapse">
+          <div class="panel-body">
+            會的，在安裝DVM時請務必關閉防毒軟體，以免造成安裝軟體不完全。<br>
+            此外，在進行掃描時也務必關閉防火牆，並確認掃描主機是否同一網段，以免回傳資訊不正確
+          </div>
+        </div>
+        <br>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion"
+              href="#collapseEleven">請問DVM可以掃出Windows主機內帳號的密碼嗎？</a>
+          </h4>
+        </div>
+        <div id="collapseEleven" class="panel-collapse collapse">
+          <div class="panel-body">
+            DVM掃瞄時能可做密碼檢測，需提供密碼檔且有匹配到，才能測試出密碼。 <br>
+            設定方式如下: <br> <br>
+            1.政策=>NetBIOS 設定 <br>
+            (1) 請設定管理者權限，一定要透過管理者權限掃瞄才能得到主機帳號資訊，而進一步做密碼檢測。 <br>
+            (2) 將帳號密碼猜測方式調整為「嘗試更改帳號密碼」。 <br>
+            (3) 提供密碼字典檔，可選擇DVM預設提供的字典檔也可自行增加密碼，字典檔路徑如下: <br>
+            C:\Program Files /Dragomsoft/DVM/Dic/password.txt <br> <br>
+            2.政策=>風險設定
+            風險類型 Accounts中「密碼來自於密碼檔」需勾選。
+          </div>
+        </div>
+        <br>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion"
+              href="#collapseTwo">DVM軟體版號與更新時間該如何查看?</a>
+          </h4>
+        </div>
+        <div id="collapseTwo" class="panel-collapse collapse">
+          <div class="panel-body">
+            開啟軟體後，請點選位於右上角的關於。<br>
+            <img src="../assets/img/FAQ/1541149922434.jpg" style="max-width: 600px"><br><br>
+            <img src="../assets/img/FAQ/1541664342334.jpg">
+          </div>
+        </div>
+        <br>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion"
+              href="#collapseThree">如果我想知道更多資訊或是掃不出弱點時該怎麼辦？</a>
+          </h4>
+        </div>
+        <div id="collapseThree" class="panel-collapse collapse">
+          <div class="panel-body">
+            可以嘗試輸入有權限的帳號密碼，有些資訊必須要輸入帳號密碼才能夠取得，先在初始介面按下新增任務。
+            <img src="../assets/img/FAQ/InkedmessageImage_1541150780630_LI.jpg" style="max-width: 500px">
+            <img src="../assets/img/FAQ/1541664467255.jpg" style="max-width: 500px;">
+          </div>
+        </div>
+        <br>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion"
+              href="#collapseFive">DVM產出的報表能排除無資訊的主機嗎？</a>
+          </h4>
+        </div>
+        <div id="collapseFive" class="panel-collapse collapse">
+          <div class="panel-body">
+            可以，也可排除各種風險之弱點資訊。
+            <br />
+          </div>
+        </div>
+      </div>
+      <!-- 問答結束-->
+    </div>
+  </div>
+  <br />
+  <br />
+  <br />
+  <!--footer-->
+  <script src="../assets/js/footer.js"></script>
+  <script src="../assets/js/footerplugin.js"></script>
+</body>
+
+</html>

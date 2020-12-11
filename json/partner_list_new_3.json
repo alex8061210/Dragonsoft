@@ -1,0 +1,23 @@
+[
+    {
+        "logo": "../assets/img/partners/永捷有限公司.png",
+        "name": "永捷有限公司",
+        "link": "http://www.justumai.com.tw/",
+        "contact_person": "邱小姐 Nisa",
+        "phone_number": "02-77467419"
+    },
+    {
+        "logo": "../assets/img/partners/大同股份有限公司.png",
+        "name": "大同股份有限公司",
+        "link": "http://www.tatung.com/",
+        "contact_person": "王先生",
+        "phone_number": "02-2598-4216"
+    },
+    {
+        "logo": "../assets/img/partners/日月晶耀.png",
+        "name": "日月晶曜",
+        "link": "http://www.smr.com.tw/",
+        "contact_person": "蘇先生 Peter",
+        "phone_number": "02-2712-2328"
+    }
+]
